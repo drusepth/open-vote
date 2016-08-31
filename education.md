@@ -2,7 +2,7 @@
 
 * Online voting (and digital voting machines) allow for rich voting experiences
   that can educate voters on candidates, issues, and other information related
-  to what they're voting on.
+  to what they're voting on, resulting in more well-informed votes.
 
 ## Candidate education
 
