@@ -19,3 +19,6 @@
 ## Technical implementation
 
 * System for assigning a collision-less hash to users after voting TBD
+
+* System for instilling confidence in voters that their hash is unique and
+  not shared with any other candidates who voted the same way TBD.
