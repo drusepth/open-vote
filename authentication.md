@@ -11,8 +11,8 @@
 
 ### Mapping digital users one-to-one to citizens
 
-* Idea: You mail out postcards to registered voters with their asymmetric
-  private key obscured by an opaque scratch-off covering, and a plainly visible
+* You mail out postcards to registered voters with their asymmetric private
+  key obscured by an opaque scratch-off covering, and a plainly visible
   public key. If the scratch-off is not intact, the voter requests another via
   website form, or shows up in person at an office in the county seat. The
   registration office revokes the key pair for the original card and issues
@@ -39,18 +39,18 @@
 
     * Obviously, this is a pretty complicated for the average voter. How can we
       ensure EVERY voter is capable of this, AND understands the process (as
-      per Judgment of 03 March 2009 - 2 BvC 3/07 Headnote #2?
+      per Judgment of 03 March 2009 - 2 BvC 3/07 Headnote #2)?
       (http://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/EN/2009/03/cs20090303_2bvc000307en.html)
 
     * Does this tie their private key to their identity post-voting? (Can the
       government look up who a particular key voted for, and then look up who
       was assigned that key?)
 
-### Ensuring votes came from a _specific_ citizen
+### Ensuring votes came from a _specific_, intended citizen
 
 * TBD
 
 ### Ensuring machines submitting a vote are not affected by malware capable of
-    manipulating votes
+### manipulating votes
 
 * TBD

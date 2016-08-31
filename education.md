@@ -11,10 +11,10 @@
 * Information should be provided in a certified-unbiased manner (TBD),
   detailing their stances, platforms, and opinions on issues.
 
-### Ensuring information nonpartisanship
+## Issue/bill education
 
 * TBD
 
-## Issue/bill education
+## Ensuring information nonpartisanship
 
 * TBD
