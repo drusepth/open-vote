@@ -52,4 +52,10 @@
 
 ### Ensuring machines submitting a vote are not affected by malware capable of manipulating votes
 
-* TBD
+Malware is difficult to detect and fight against. This system provides three major safeguards against malware-based vote tampering:
+
+* Voters are allowed (and encouraged) to audit their own vote on the blockchain at any time, from any machine, to ensure it is correct and voting for their desired option.
+
+* Until a ballot's designated "close" date/time (at which point no additional votes are allowed), voters are also free to change their vote. If a voter finds that their vote has been compromised by malware, they can immediately change that vote from any other device instead of dealing with a time constraint on removing their infection before voting again.
+
+* After a ballot has closed, voters can audit their own vote on the blockchain after no more changes are allowed to be confident that their vote remains correct indefinitely.
