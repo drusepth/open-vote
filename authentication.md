@@ -50,7 +50,6 @@
 
 * TBD
 
-### Ensuring machines submitting a vote are not affected by malware capable of
-### manipulating votes
+### Ensuring machines submitting a vote are not affected by malware capable of manipulating votes
 
 * TBD
