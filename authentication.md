@@ -46,9 +46,17 @@
       government look up who a particular key voted for, and then look up who
       was assigned that key?)
 
-### Ensuring votes came from a _specific_, intended citizen
+### Ensuring all recorded votes came from a one-to-one mapping of eligible-to-vote citizens
 
-* TBD
+* TBD from the public's perspective (i.e. no access to everyone's public keys)
+
+### Ensuring that each individual has only voted at most once
+
+* TBD, but should be trivial to compute from the blockchain
+
+### Ensuring that a vote has not been given away or sold to a third party
+
+* TBD, but not currently handled in current voting systems
 
 ### Ensuring machines submitting a vote are not affected by malware capable of manipulating votes
 
